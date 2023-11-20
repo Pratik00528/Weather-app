@@ -1,0 +1,79 @@
+body {
+    font-family: 'Arial', sans-serif;
+    color: #fff;
+    margin: 0;
+    background-size: cover; /* This ensures the background covers the entire screen */
+    background-attachment: fixed; /* This prevents the background from scrolling with the page */
+}
+.card {
+    color: #fff !important;
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+}
+.card-header {
+    background-color: rgba(0, 0, 0, 0.35) !important; /* Adjust the opacity value as needed */
+     border: none !important; /* Remove the border */
+}
+
+.card-body {
+    background-color: rgba(0, 0, 0, 0.3) !important; /* Adjust the opacity value as needed */
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+.navbar-nav .nav-link {
+    color: #fff !important;
+}
+.navbar-brand {
+    color: #fff !important;
+}
+.text-box {
+    margin-right: 10px;
+    border-radius: 10px; /* Adjust the value to control the roundness */
+    padding: 5px 10px; /* Add padding for better aesthetics */
+    border: none; /* Remove default border */
+    outline: none; /* Remove default outline */
+}
+.table-transparent th {
+    background-color: rgba(0, 0, 0, 0.3) !important;
+    border: none !important;
+    color: #fff !important;
+}
+.table-transparent td {
+    background-color: rgba(0, 0, 0, 0.3) !important;
+    border: none !important;
+    color: #fff !important;
+}
+video {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+}
+.card-body p {
+    display: flex;
+    align-items: center;
+    position: relative;
+    padding-left: 100px; /* Adjust the padding to control the distance between the icon and the text */
+}
+
+.card-body img {
+    position: absolute;
+    top: 40%;
+    transform: translateY(-50%);
+    height: 25px; /* Adjust the height of the icon as needed */
+    width: auto; /* This will maintain the aspect ratio */
+    margin-left: -30px; /* Offset to align the icon to the left of the text */
+}
+
+.card-body h5 {
+    margin-top: 30px; /* Adjust the margin to control the space between icon and text */
+    margin-bottom: 10px; /* Adjust the margin to control the space between text and next element */
+}
+
