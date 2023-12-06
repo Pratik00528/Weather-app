@@ -19,7 +19,7 @@ https://github.com/Pratik00528/Weather-app/assets/88713298/e0f2e72a-34b5-4eaa-91
 - **Real-Time Weather Data:** Get the latest weather information for any city globally.
 - **Comprehensive Information:** Access detailed data such as temperature, humidity, pressure, and wind speed.
 - **Visual Representation:** Icons and background videos correspond to the current weather conditions for a richer user experience.
-- **User-Friendly Design:** Enjoy a responsive design that works seamlessly on both desktop and mobile devices.
+- **User-Friendly Design:** Enjoy a responsive design that works seamlessly.
 - **Explore Other Cities:** Check out the weather in popular cities worldwide with just a few clicks.
 
 ## Screenshots
