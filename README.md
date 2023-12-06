@@ -8,7 +8,7 @@ Welcome to the Weather App! This application provides real-time weather updates 
 
 Watch a quick demo of the Weather App:
 
-![Weather App Demo](./screenshots/Demo video.mp4)
+![Weather App Demo](./screenshots/Demo\video.mp4)
 
 ### Experience the Weather App live! Visit the application at:
 
@@ -24,14 +24,28 @@ Watch a quick demo of the Weather App:
 
 ## Screenshots
 
-![Home page](./screenshots/Home page.png)
+![Home page](./screenshots/Home\page.png)
+
+
 ![Hyderabad](./screenshots/Hyderabad.png)
+
+
 ![Banglaore](./screenshots/Bangalore.png)
-![New York](./screenshots/New York.png)
+
+
+![New York](./screenshots/New\York.png)
+
+
 ![Mumbai](./screenshots/Mumbai.png)
+
+
 ![Dubai](./screenshots/Dubai.png)
-![Other Popular cities](./screenshots/Other Popular cities.png)
-![Invalid Name](./screenshots/Invalid name.png)
+
+
+![Other Popular cities](./screenshots/Other\Popular\cities.png)
+
+
+![Invalid Name](./screenshots/Invalid\name.png)
 
 <!-- Add more screenshots if necessary -->
 
