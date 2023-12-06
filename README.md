@@ -4,6 +4,16 @@
 
 Welcome to the Weather App! This application provides real-time weather updates for cities around the world. It leverages the OpenWeatherMap API to deliver accurate and timely information. Users can easily access a wide range of weather data, including temperature, humidity, wind speed, and more.
 
+## Demo and Live Web-link
+
+Watch a quick demo of the Weather App:
+
+[![Weather App Demo](./screenshots/Demo video.mp4)]
+
+Experience the Weather App live! Visit the application at:
+
+[Live Weather App](https://pratik00528.pythonanywhere.com/)
+
 ## Features
 
 - **Real-Time Weather Data:** Get the latest weather information for any city globally.
