@@ -8,10 +8,7 @@ Welcome to the Weather App! This application provides real-time weather updates 
 
 Watch a quick demo of the Weather App:
 
-<video width="640" height="360" controls>
-  <source src="./screenshots/Demo_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/Pratik00528/Weather-app/assets/88713298/e0f2e72a-34b5-4eaa-91ef-482037e16e0e
 
 ### Experience the Weather App live! Visit the application at:
 
@@ -36,10 +33,10 @@ Watch a quick demo of the Weather App:
 ![Banglaore](./screenshots/Bangalore.png)
 
 
-![New York](./screenshots/New_York.png)
-
-
 ![Mumbai](./screenshots/Mumbai.png)
+
+
+![New York](./screenshots/New_York.png)
 
 
 ![Dubai](./screenshots/Dubai.png)
