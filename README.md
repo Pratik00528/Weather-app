@@ -8,7 +8,10 @@ Welcome to the Weather App! This application provides real-time weather updates 
 
 Watch a quick demo of the Weather App:
 
-![Weather App Demo](./screenshots/Demo\video.mp4)
+<video width="640" height="360" controls>
+  <source src="./screenshots/Demo_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Experience the Weather App live! Visit the application at:
 
@@ -24,7 +27,7 @@ Watch a quick demo of the Weather App:
 
 ## Screenshots
 
-![Home page](./screenshots/Home\page.png)
+![Home page](./screenshots/Home_page.png)
 
 
 ![Hyderabad](./screenshots/Hyderabad.png)
@@ -33,7 +36,7 @@ Watch a quick demo of the Weather App:
 ![Banglaore](./screenshots/Bangalore.png)
 
 
-![New York](./screenshots/New\York.png)
+![New York](./screenshots/New_York.png)
 
 
 ![Mumbai](./screenshots/Mumbai.png)
@@ -42,10 +45,10 @@ Watch a quick demo of the Weather App:
 ![Dubai](./screenshots/Dubai.png)
 
 
-![Other Popular cities](./screenshots/Other\Popular\cities.png)
+![Other Popular cities](./screenshots/Other_popular_cities.png)
 
 
-![Invalid Name](./screenshots/Invalid\name.png)
+![Invalid Name](./screenshots/Invalid_name.png)
 
 <!-- Add more screenshots if necessary -->
 
@@ -62,10 +65,3 @@ For a more detailed guide, check the [How to Use](https://pratik00528.pythonanyw
 ## About
 
 Learn more about the Weather App, including its features and the technology behind it, on the [About](https://pratik00528.pythonanywhere.com/about) page.
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
