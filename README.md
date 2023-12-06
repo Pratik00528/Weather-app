@@ -8,9 +8,9 @@ Welcome to the Weather App! This application provides real-time weather updates 
 
 Watch a quick demo of the Weather App:
 
-[![Weather App Demo](./screenshots/Demo video.mp4)]
+![Weather App Demo](./screenshots/Demo video.mp4)
 
-Experience the Weather App live! Visit the application at:
+# Experience the Weather App live! Visit the application at:
 
 [Live Weather App](https://pratik00528.pythonanywhere.com/)
 
