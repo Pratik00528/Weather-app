@@ -62,10 +62,3 @@ For a more detailed guide, check the [How to Use](https://pratik00528.pythonanyw
 ## About
 
 Learn more about the Weather App, including its features and the technology behind it, on the [About](https://pratik00528.pythonanywhere.com/about) page.
-
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
