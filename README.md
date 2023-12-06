@@ -8,7 +8,10 @@ Welcome to the Weather App! This application provides real-time weather updates 
 
 Watch a quick demo of the Weather App:
 
-![Weather App Demo](./screenshots/Demo_video.mp4)
+<video width="640" height="360" controls>
+  <source src="./screenshots/demo_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Experience the Weather App live! Visit the application at:
 
