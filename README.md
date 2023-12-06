@@ -4,6 +4,16 @@
 
 Welcome to the Weather App! This application provides real-time weather updates for cities around the world. It leverages the OpenWeatherMap API to deliver accurate and timely information. Users can easily access a wide range of weather data, including temperature, humidity, wind speed, and more.
 
+## Demo and Live Web-link
+
+Watch a quick demo of the Weather App:
+
+![Weather App Demo](./screenshots/Demo\video.mp4)
+
+### Experience the Weather App live! Visit the application at:
+
+[Live Weather App](https://pratik00528.pythonanywhere.com/)
+
 ## Features
 
 - **Real-Time Weather Data:** Get the latest weather information for any city globally.
@@ -14,7 +24,29 @@ Welcome to the Weather App! This application provides real-time weather updates 
 
 ## Screenshots
 
-![Screenshot 1](./screenshots/screenshot1.png)
+![Home page](./screenshots/Home\page.png)
+
+
+![Hyderabad](./screenshots/Hyderabad.png)
+
+
+![Banglaore](./screenshots/Bangalore.png)
+
+
+![New York](./screenshots/New\York.png)
+
+
+![Mumbai](./screenshots/Mumbai.png)
+
+
+![Dubai](./screenshots/Dubai.png)
+
+
+![Other Popular cities](./screenshots/Other\Popular\cities.png)
+
+
+![Invalid Name](./screenshots/Invalid\name.png)
+
 <!-- Add more screenshots if necessary -->
 
 ## How to Use
@@ -25,11 +57,11 @@ Welcome to the Weather App! This application provides real-time weather updates 
 4. View detailed weather information for the specified city.
 5. Explore various weather parameters and enjoy background videos matching the weather conditions.
 
-For a more detailed guide, check the [How to Use](./how_to_use.html) page.
+For a more detailed guide, check the [How to Use](https://pratik00528.pythonanywhere.com/how_to_use) page.
 
 ## About
 
-Learn more about the Weather App, including its features and the technology behind it, on the [About](./about.html) page.
+Learn more about the Weather App, including its features and the technology behind it, on the [About](https://pratik00528.pythonanywhere.com/about) page.
 
 ## Installation
 
